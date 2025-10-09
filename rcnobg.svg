@@ -5,7 +5,7 @@
  style="display: block; margin: auto;" viewBox="0 0 310 310"
  preserveAspectRatio="xMidYMid meet">
 <defs>
-  <linearGradient id="rcRedGrayGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+  <linearGradient id="rcGradient" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="21%" stop-color="rgba(173, 35, 35, 1)" />
     <stop offset="49%" stop-color="rgba(117, 29, 29, 1)" />
     <stop offset="73%" stop-color="rgba(158, 158, 158, 1)" />
