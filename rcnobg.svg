@@ -6,7 +6,7 @@
  preserveAspectRatio="xMidYMid meet">
 <defs>
     <linearGradient id="rcGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="26%" stop-color="#ad2323;" />
+      <stop offset="26%" stop-color="#ad2323" />
       <stop offset="78%" stop-color="rgba(165, 127, 127, 1)" />
       <stop offset="95%" stop-color="#717171" />
     </linearGradient>
